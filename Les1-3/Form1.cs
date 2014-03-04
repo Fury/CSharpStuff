@@ -1,5 +1,6 @@
 ﻿using Les1_3_dll;
 using Les1_3_dll.deel2;
+using Les1_3_dll.deel3;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -17,7 +18,9 @@ namespace Les1_3
         public Form1()
         {
             InitializeComponent();
+            Maand maand = new Maand{ Maandnr= 3,Jaar = 2014};
 
+            Console.WriteLine(maand.ToString());
         }
 
         private void openToolStripMenuItem_Click(object sender, EventArgs e)

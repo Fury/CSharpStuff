@@ -43,7 +43,7 @@ namespace Les1_3_dll
             return builder.ToString();
         }
 
-       public readonly string tijdSindsAccess {
+       public string tijdSindsAccess {
             get
             {
                 TimeSpan dateAccess = DateTime.Now.Subtract(fileInfo.LastAccessTime);
