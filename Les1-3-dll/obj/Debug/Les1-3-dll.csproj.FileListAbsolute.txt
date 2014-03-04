@@ -1,0 +1,5 @@
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3-dll\obj\Debug\Les1-3-dll.csprojResolveAssemblyReference.cache
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3-dll\bin\Debug\Les1-3-dll.dll
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3-dll\bin\Debug\Les1-3-dll.pdb
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3-dll\obj\Debug\Les1-3-dll.dll
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3-dll\obj\Debug\Les1-3-dll.pdb

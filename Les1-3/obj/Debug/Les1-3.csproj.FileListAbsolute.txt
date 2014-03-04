@@ -1,0 +1,10 @@
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3\obj\Debug\Les1-3.csprojResolveAssemblyReference.cache
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3\obj\Debug\Les1_3.Properties.Resources.resources
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3\obj\Debug\Les1-3.csproj.GenerateResource.Cache
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3\bin\Debug\Les1-3.exe
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3\bin\Debug\Les1-3.pdb
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3\bin\Debug\Les1-3-dll.dll
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3\bin\Debug\Les1-3-dll.pdb
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3\obj\Debug\Les1-3.exe
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3\obj\Debug\Les1-3.pdb
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\Les1-3\obj\Debug\Les1_3.Form1.resources

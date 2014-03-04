@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les1-1", "WanteLes1-1\Les1-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les1-2", "WanteLes1-2\Les1-2.csproj", "{4A5F9119-4144-4A8F-8994-DEBF07A4B160}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les1-3", "Les1-3\Les1-3.csproj", "{4764D66F-895B-4C88-A33E-34628F5279FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les1-3-dll", "Les1-3-dll\Les1-3-dll.csproj", "{98EA76E5-85ED-4BB1-8C05-57ADB2D5C3EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4A5F9119-4144-4A8F-8994-DEBF07A4B160}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A5F9119-4144-4A8F-8994-DEBF07A4B160}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A5F9119-4144-4A8F-8994-DEBF07A4B160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4764D66F-895B-4C88-A33E-34628F5279FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4764D66F-895B-4C88-A33E-34628F5279FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4764D66F-895B-4C88-A33E-34628F5279FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4764D66F-895B-4C88-A33E-34628F5279FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EA76E5-85ED-4BB1-8C05-57ADB2D5C3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EA76E5-85ED-4BB1-8C05-57ADB2D5C3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EA76E5-85ED-4BB1-8C05-57ADB2D5C3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EA76E5-85ED-4BB1-8C05-57ADB2D5C3EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
