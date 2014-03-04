@@ -35,6 +35,7 @@ namespace WanteLes1_2
         {
             EmailProcessor emailProcessor = new EmailProcessor();
             emailProcessor.EmailReceivedEvent += emailProcessor_EmailReceivedEvent;
+            emailProcessor.EmailReceivedEvent += (email) => Console.WriteLine("Email Received: {0}", email);
             emailProcessor.checkEmail();
         }
 

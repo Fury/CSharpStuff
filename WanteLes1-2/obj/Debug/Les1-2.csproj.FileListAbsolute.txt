@@ -1,0 +1,4 @@
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\WanteLes1-2\bin\Debug\WanteLes1-2.exe
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\WanteLes1-2\bin\Debug\WanteLes1-2.pdb
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\WanteLes1-2\obj\Debug\WanteLes1-2.exe
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\WanteLes1-2\obj\Debug\WanteLes1-2.pdb
