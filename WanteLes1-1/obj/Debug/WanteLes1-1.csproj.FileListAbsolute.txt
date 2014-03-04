@@ -1,0 +1,5 @@
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\WanteLes1-1\bin\Debug\WanteLes1-1.exe
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\WanteLes1-1\bin\Debug\WanteLes1-1.pdb
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\WanteLes1-1\obj\Debug\WanteLes1-1.csprojResolveAssemblyReference.cache
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\WanteLes1-1\obj\Debug\WanteLes1-1.exe
+c:\Users\Dries\Documents\Visual Studio 2013\Projects\WanteLes1-1\WanteLes1-1\obj\Debug\WanteLes1-1.pdb
