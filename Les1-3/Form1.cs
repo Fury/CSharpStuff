@@ -1,4 +1,5 @@
 ﻿using Les1_3_dll;
+using Les1_3_dll.deel2;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
